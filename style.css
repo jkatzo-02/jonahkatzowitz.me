@@ -1,0 +1,33 @@
+/* Color palette: #E8E5DA, #CDC392, #725E54, #443627, #000000 */
+body {
+    background-color: #E8E5DA
+}
+nav {
+    background-color: #CDC392;
+    overflow: hidden
+}
+nav a {
+    float: left;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    color: black;
+} 
+nav a:hover {
+    background-color: #000000;
+    color: white;
+}
+nav a.active {
+    background-color: #E8E5DA;
+}
+nav a:hover.active {
+    background-color: #E8E5DA;
+    color: #000000;
+}
+nav a:visited {
+    text-decoration: none;
+}
+footer {
+    position: absolute;
+    bottom: 14px;
+}
