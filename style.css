@@ -2,6 +2,12 @@
 body {
     background-color: #E8E5DA
 }
+h1 {
+    text-align: center;
+}
+p {
+    float: left;
+}
 nav {
     background-color: #CDC392;
     overflow: hidden
