@@ -40,7 +40,9 @@ footer {
 .Credly-badges {
     display: flex;
     flex-wrap: wrap;
+    align: center;
 }
 .word, .powerpoint, .excel, .access, .specialist {
+    border: solid;
     margin: 15px;
 }
