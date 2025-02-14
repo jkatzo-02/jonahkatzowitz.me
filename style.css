@@ -38,5 +38,6 @@ footer {
     bottom: 14px;
 }
 .Credly-badges {
+    display: inline-block;
     float: left;
 }
