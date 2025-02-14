@@ -40,5 +40,6 @@ footer {
 .Credly-badges {
     display: flex;
     flex-wrap: wrap;
-    margin: 150px;
+    border: solid;
+    border-weight: 2px;
 }
