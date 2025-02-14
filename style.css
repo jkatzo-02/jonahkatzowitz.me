@@ -41,3 +41,6 @@ footer {
     display: flex;
     flex-wrap: wrap;
 }
+.word, .powerpoint, .excel, .access, .specialist {
+    margin: 15px;
+}
